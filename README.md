@@ -24,7 +24,7 @@ The view gives summary of two metrics:
 1. Occupancy% by city and day type.
 2. Average rating by city, room class, booking platform.
 
-### Few Insights from the project:
+## Few Insights from the project:
 
 - [x] Mumbai stands as the most revenue generating city by 661M with an occupancy of 58%, rating of 3.7, and Atliq Exotica being the prime contributor to the revenue.
       
@@ -36,6 +36,15 @@ The view gives summary of two metrics:
       
 - [x] Occupancy % is high on weekends.
 
+## Key Learnings from the project:
 
+✅ Key Metrics like RevPAR, ADR, DSRN, DURN, DBRN,  Realization %, Occupancy and Cancellation %, etc.
+
+✅ Domain knowledge in Hospitality industry.
+
+✅ Soft skills like the ability to comprehend stakeholder requirement via dashboard mockups.
+
+## Acknowledgments
+Special thanks to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for creating resume project challenges and providing the datasets. 
 
 
