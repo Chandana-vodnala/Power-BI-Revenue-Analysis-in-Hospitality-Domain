@@ -8,6 +8,13 @@ Across India, AtliQ Grands is the owner of several five-star hotels. They have s
 ## Objective: 
 The objective is to create an interactive report to provide valuable insights to the revenue management team and to enhance and regain AtliQ's market share and revenue.
 
+## Tools used:
+
+- [x] Excel
+- [x] MySQL
+- [x] Power BI Desktop & Power BI Service
+- [x] DAX Studio (for optimizing the report)
+
 ## Building the report:
 
 ### Overview:
