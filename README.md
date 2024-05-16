@@ -11,3 +11,7 @@ The objective is to create an interactive report to provide valuable insights to
 ## Building the report:
 
 ### Overview:
+The overview in the report gives quick insights into key metrics like revenue, RevPar, ADR, Occupancy%, realisation%, etc.
+
+### Revenue:
+
